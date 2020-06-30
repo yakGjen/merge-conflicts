@@ -1,13 +1,9 @@
-# Degree
+     # Degree
+- degree: Front-end developer
+  uni: The Rolling Scopes School
 
-- The Rolling Scopes School:
-    Course: Front-end developer
+- degree: Front-end developer
+  uni: Educational Center of HTP
 
-- Educational Center of HTP:
-    Specialization: 'Front-end developer'
-    Modules:
-      - Development websites with HTML and CSS
-      - Development web applications on Javascript
-
-- MSPU named after I.P.Shamyakin:
-    Specialization: Master's degree pedagogical science
+- degree: Master's degree pedagogical science
+  uni: MSPU named after I.P.Shamyakin
