@@ -1,36 +1,36 @@
-**Projects**
+'Projects'
 
-*Rest service (2020)*
-* link - <https://github.com/yakGjen/node-rss>
-* environment – Node.js, Express, MongoDB, JWT
+Rest service (2020):
+  - link - https://github.com/yakGjen/node-rss
+  - environment – Node.js, Express, MongoDB, JWT
 
-*Caesar cipher cli (2020)*
-* link - <https://github.com/yakGjen/caesar-cipher-cli>
-* environment – Node.js
+Caesar cipher cli (2020):
+  - link - https://github.com/yakGjen/caesar-cipher-cli
+  - environment – Node.js
 
-*Culture portal (2020)*
-* link - <https://nostalgic-goldstine-17dca9.netlify.app/>
-* environment - HTML, CSS, JavaScript, Angular, Angular Material, Scully, Contentful
+Culture portal (2020):
+  - link - https://nostalgic-goldstine-17dca9.netlify.app
+  - environment - HTML, CSS, JavaScript, Angular, Angular Material, Scully, Contentful
 
-*Youtube client (2020)*
-* link - <https://yakgjen.github.io/youtube-angular>
-* environment - HTML, CSS, JavaScript, Angular, Angular Material
+Youtube client (2020):
+  - link - https://yakgjen.github.io/youtube-angular
+  - environment - HTML, CSS, JavaScript, Angular, Angular Material
 
-*Piskel Clone (2019)*
-* link - <https://github.com/yakGjen/piskel-clone-build>
-* environment - HTML, CSS, JavaScript, Angular
+Piskel Clone (2019):
+  - link - https://github.com/yakGjen/piskel-clone-build
+  - environment - HTML, CSS, JavaScript, Angular
 
-*Youtube client (2019)*
-* link - <https://yakgjen.github.io/youtube-client/>
-* environment - HTML, CSS, JavaScript, webpack
+Youtube client (2019):
+  - link - https://yakgjen.github.io/youtube-client
+  - environment - HTML, CSS, JavaScript, webpack
 
-*RSS-Chat (2019)*
-* link - <https://yakgjen.github.io/chat-rss-build>
-* environment - HTML, CSS, JavaScript, React
+RSS-Chat (2019):
+  - link - https://yakgjen.github.io/chat-rss-build
+  - environment - HTML, CSS, JavaScript, React
 
-*Website markups*
-* <https://yakgjen.github.io/photo-sharing-build/>
-* <https://yakgjen.github.io/lucid-onepage-markup/>
-* <https://yakgjen.github.io/amethyst-markup/>
-* <https://yakgjen.github.io/merkury-markup/>
-* <https://yakgjen.github.io/agency-markup/>
+Website markups:
+  - https://yakgjen.github.io/photo-sharing-build/
+  - https://yakgjen.github.io/lucid-onepage-markup/
+  - https://yakgjen.github.io/amethyst-markup/
+  - https://yakgjen.github.io/merkury-markup/
+  - https://yakgjen.github.io/agency-markup/
