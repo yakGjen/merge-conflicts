@@ -35,11 +35,22 @@
   url: "https://yakgjen.github.io/chat-rss-build"
   description: "environment: HTML, CSS, JavaScript, React"
   
-- project: Website markups
+- project: Website markups 1
   role: Primary Developer
-  url: 
-    - "https://yakgjen.github.io/photo-sharing-build/"
-    - "https://yakgjen.github.io/lucid-onepage-markup/"
-    - "https://yakgjen.github.io/amethyst-markup/"
-    - "https://yakgjen.github.io/merkury-markup/"
-    - "https://yakgjen.github.io/agency-markup/"
+  url: "https://yakgjen.github.io/photo-sharing-build/"
+ 
+- project: Website markups 2
+  role: Primary Developer
+  url: "https://yakgjen.github.io/lucid-onepage-markup/"
+  
+- project: Website markups 3
+  role: Primary Developer
+  url: "https://yakgjen.github.io/amethyst-markup/"
+  
+- project: Website markups 4
+  role: Primary Developer
+  url: "https://yakgjen.github.io/merkury-markup/"
+  
+- project: Website markups 5
+  role: Primary Developer
+  url: "https://yakgjen.github.io/agency-markup/""
