@@ -3,37 +3,37 @@
 - project: Rest service (2020)
   role: Primary Developer
   url: "https://github.com/yakGjen/node-rss"
-  description: environment: Node.js, Express, MongoDB, JWT
+  description: "environment: Node.js, Express, MongoDB, JWT"
   
 - project: Caesar cipher cli (2020)
   role: Primary Developer
   url: "https://github.com/yakGjen/caesar-cipher-cli"
-  description: environment: Node.js
+  description: "environment: Node.js"
   
 - project: Culture portal (2020)
   role: Team Developer
   url: "https://nostalgic-goldstine-17dca9.netlify.app"
-  description: environment: HTML, CSS, JavaScript, Angular, Angular Material, Scully, Contentful
+  description: "environment: HTML, CSS, JavaScript, Angular, Angular Material, Scully, Contentful"
   
 - project: Youtube client (2020)
   role: Primary Developer
   url: "https://yakgjen.github.io/youtube-angular"
-  description: environment: HTML, CSS, JavaScript, Angular, Angular Material
+  description: "environment: HTML, CSS, JavaScript, Angular, Angular Material"
   
 - project: Piskel Clone (2019)
   role: Primary Developer
   url: "https://github.com/yakGjen/piskel-clone-build"
-  description: environment: HTML, CSS, JavaScript, Angular
+  description: "environment: HTML, CSS, JavaScript, Angular"
   
 - project: Youtube client (2019)
   role: Primary Developer
   url: "https://yakgjen.github.io/youtube-client"
-  description: environment: HTML, CSS, JavaScript, webpack
+  description: "environment: HTML, CSS, JavaScript, webpack"
   
 - project: RSS-Chat (2019)
   role: Primary Developer
   url: "https://yakgjen.github.io/chat-rss-build"
-  description: environment: HTML, CSS, JavaScript, React
+  description: "environment: HTML, CSS, JavaScript, React"
   
 - project: Website markups
   role: Primary Developer
